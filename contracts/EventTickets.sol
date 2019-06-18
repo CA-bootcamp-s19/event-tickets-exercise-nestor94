@@ -93,6 +93,7 @@ contract EventTickets {
         Define a funciton called readEvent() that returns the event details.
         This function does not modify state, add the appropriate keyword.
         The returned details should be called description, website, uint totalTickets, uint sales, bool isOpen in that order.
+        Trying to deploy
     */
     function readEvent() 
         public view
